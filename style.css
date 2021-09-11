@@ -1,0 +1,77 @@
+body
+{
+  font-family: 'Times New Roman', Times, serif;
+  color:#333;
+}
+  
+
+  .tribute-page
+  {
+    text-align: center;
+    background-color:#eee;
+    padding: 60px 25px 50px 30px;
+    border-radius: 10px;
+    margin: 40px 0;
+  }
+  #heading 
+    {
+     font-size: 50px;
+     margin-bottom: 24px;
+  }
+  .heading-text
+  {
+    font-size: 24px;
+  }
+  .image-section
+  {
+    background-color:white;
+    margin: 0;
+    }
+    .jumbo
+    {
+     border-radius: 20px;
+     width:96%;
+    }
+    .img-caption 
+    {
+      font-size: 20px;
+      font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+      line-height: 24px;
+      padding:12px 0;
+    }
+  #apari
+  {
+    padding: 35px 0 0 0;
+  }
+
+  .japasexual
+  {  
+   max-width: 700px;
+   margin: 50px auto 0;
+  }
+  .cruise
+  {
+   text-align:left;
+  //text-transform: capitalize;
+    font-size: 18px;
+    line-height: 25px;
+    word-spacing: 1.5px;
+    margin: 20px;
+  }
+   #mepe
+   {
+     font-size: 15px;
+     line-height: 150%;
+     max-width: 700px;
+     margin: 0 auto;
+     text-align: center;
+   }
+blockquote
+{
+  padding: 25px 0;
+}
+
+
+.last{
+    font-size: 20px;
+}
